@@ -1,1 +1,1 @@
-# Discret-Project-
+# Discret-Project-Prime Numbers
